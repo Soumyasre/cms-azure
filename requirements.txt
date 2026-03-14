@@ -1,0 +1,15 @@
+flask
+flask-login
+flask-session
+flask-sqlalchemy
+flask-wtf
+wtforms
+sqlalchemy
+alembic
+msal
+pyodbc
+azure-storage-blob
+requests
+python-dateutil
+gunicorn
+pyOpenSSL
